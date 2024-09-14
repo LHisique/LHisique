@@ -1,18 +1,28 @@
-🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack... estudo programação faz 50 anos. sou alérgico à java e só trabalho com C#
 
-Referência
-Awesome Readme Templates
-Awesome README
-How to write a Good readme
-Stack utilizada
-Front-end: React, Redux, TailwindCSS
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack... estudo programação faz 50 anos.
+sou alérgico à java e só trabalho com C#
 
-Back-end: Node, Express, visual estudio
 
-Instalação
+## Referência
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Stack utilizada
+
+**Front-end:** React, Redux, TailwindCSS
+
+**Back-end:** Node, Express, visual estudio
+
+
+## Instalação
+
 Instale my-project com npm
 
+```bash
   using System;
 using System.Collections.Generic;
 
@@ -87,8 +97,13 @@ class Program
 
     }
 }
-Funcionalidades
-Um mercado básico de compras de produtos
-ao escolher seus produtos, basta escoher a quantidade e comprar
-Emite uma nota fiscal dos produtos e a quantidade
-Todos os valores tem um desconto de 10%
+
+```
+    
+## Funcionalidades
+
+- Um mercado básico de compras de produtos 
+- ao escolher seus produtos, basta escoher a quantidade e comprar
+- Emite uma nota fiscal dos produtos e a quantidade
+- Todos os valores tem um desconto de 10%
+
